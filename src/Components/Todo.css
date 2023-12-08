@@ -32,6 +32,7 @@ body{
     color: white;
     border: none;
     margin-bottom: 50px;
+    cursor: pointer;
   }
   
   .todo-row {
@@ -56,6 +57,7 @@ body{
   .todo-row .icons {
     display: flex;
     align-items: center;
+    cursor: pointer;
   }
   
   .todo-row .icons {
@@ -87,6 +89,7 @@ body{
     color: white;
     border: none;
     margin-bottom: 50px;
+    cursor: pointer;
   }
   
   
